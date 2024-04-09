@@ -1,0 +1,35 @@
+{
+  "name": "mysticnox",
+  "displayName": "MYSTIC NOX",
+  "description": "mystic",
+  "version": "0.0.1",
+  "publisher":"noxhill",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "repository":{
+    "type":"git",
+    "url":"https://github.com/onerafb/mysticnox-"
+  },
+  "keywords": [
+    "theme",
+    "aftab",
+    "dark theme",
+    "nox",
+    "mystic nox theme",
+    "Mystic Nox Theme",
+    "mystic"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Mystic Nox",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Mystic Nox-color-theme.json"
+      }
+    ]
+  }
+}
