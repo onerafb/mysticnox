@@ -3,14 +3,15 @@
   "displayName": "MYSTIC NOX",
   "description": "mystic",
   "version": "0.0.1",
-  "publisher":"noxhill",
+  "publisher": "noxhill",
   "engines": {
     "vscode": "^1.88.0"
   },
-  "repository":{
-    "type":"git",
-    "url":"https://github.com/onerafb/mysticnox"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onerafb/mysticnox"
   },
+  "icon": "https://i.pinimg.com/564x/0d/42/c5/0d42c51c82fca7b2a1360ffec4747b2a.jpg",
   "keywords": [
     "theme",
     "aftab",

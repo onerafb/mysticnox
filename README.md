@@ -14,15 +14,3 @@ You can author your README using Visual Studio Code. Here are some useful editor
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
-{
-        "scope": [
-          "comment",
-          "comment.block.documentation",
-          "comment.block.documentation punctuation.definition.comment",
-          "comment.line.documentation punctuation.definition.comment",
-          "punctuation.definition.comment"
-        ],
-        "settings": {
-          "foreground": "#747474"
-        }
-      }
