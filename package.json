@@ -5,7 +5,7 @@
   "version": "0.0.1",
   "publisher": "noxhill",
   "engines": {
-    "vscode": "^1.88.0"
+    "vscode": "*"
   },
   "repository": {
     "type": "git",
@@ -19,7 +19,10 @@
     "nox",
     "mystic nox theme",
     "Mystic Nox Theme",
-    "mystic"
+    "mystic",
+    "mujawar",
+    "mystic Nox",
+    "Mystic nox"
   ],
   "categories": [
     "Themes"
